@@ -1,3 +1,5 @@
+This is an old project and does not describe my products.
+
 # Text-Based RPG
 
 This project is a text-based RPG game where players interact with written text to develop their characters and engage with various mechanisms.
